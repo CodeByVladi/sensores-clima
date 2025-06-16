@@ -1,0 +1,14 @@
+2025-05-27T14:26:38.687Z - ⚠️ Alerta: Temperatura demasiado alta (28.26°C)
+2025-05-27T14:27:00.507Z - ⚠️ Alerta: Temperatura demasiado alta (28.38°C)
+{"@context":["https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"],"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Property","value":23.61,"observedAt":"2025-05-27T15:14:14.313Z"},"location":{"type":"GeoProperty","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":25.03},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":29.33},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+2025-05-27T15:37:27.974Z - ⚠️ Alerta: temperatura alta (29.33°C)
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":20.23},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":26.3},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":20.16},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":20.23},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":26.33},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":28.69},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+2025-06-16T10:49:08.085Z - ⚠️ Alerta: temperatura alta (28.69°C)
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":24.85},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}

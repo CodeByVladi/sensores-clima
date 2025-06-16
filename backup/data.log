@@ -1,0 +1,8 @@
+{"@context":["https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"],"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Property","value":20.73,"observedAt":"2025-05-27T14:17:52.919Z"},"location":{"type":"GeoProperty","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":25.15},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":29.31},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":26.81},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":28.26},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":26.78},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":28.38},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"urn:ngsi-ld:TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":23.37},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}

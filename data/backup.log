@@ -1,0 +1,5 @@
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":21.08},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":23.99},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":27.01},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":21.47},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"type":"Number","value":21.47},"location":{"type":"geo:json","value":{"type":"Point","coordinates":[-3.16,40.633]}}}

@@ -1,0 +1,1 @@
+{"id":"TemperatureSensor:001","type":"TemperatureSensor","temperature":{"value":25.14,"metadata":{"observedAt":{"value":"2025-05-27T13:58:13.374Z","type":"DateTime"}}},"location":{"type":"geo:point","value":"40.633,-3.16"}}

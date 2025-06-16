@@ -1,0 +1,23 @@
+version: "3.5"
+services:
+  orion:
+    image: fiware/orion:3.5.0
+    container_name: fiware-orion
+    platform: linux/amd64
+    ports:
+      - "1026:1026"
+    depends_on:
+      - mongo-db
+    command: -dbhost mongo-db -logLevel DEBUG
+
+  mongo-db:
+    image: mongo:4.4
+    container_name: db-mongo
+    ports:
+      - "27017:27017"
+    command: --nojournal
+    volumes:
+      - mongo-db:/data/db
+
+volumes:
+  mongo-db:
